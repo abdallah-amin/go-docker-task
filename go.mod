@@ -1,2 +1,3 @@
-go mod init go-docker-task
-go mod tidy
+module go-docker-task
+
+go 1.22
